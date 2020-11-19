@@ -1,0 +1,14 @@
+  slice     n_partic       dz[mm]    x_max[mm]    y_max[mm]     dE [keV]    sig_x[mm]    sig_y[mm]    sig_z[mm]     I_med[A] e_x[mm*mrad] e_y[mm*mrad]         etaX       etaX_p         etaY       etaY_p
+      1   9981(100%)   0.9929E+01  -0.4976E+03   0.1653E+01   0.2553E+02   0.4400E+00   0.6141E+00   0.2071E+01   0.4148E+01   0.1671E+01   0.1596E+01   0.1333E-03  -0.1760E-03   0.3996E-04   0.7283E-03
+
+ bunch average ref. values: x_med[m]= -0.49935880365523516       y_med[m]=  -7.4818588557163642E-007
+
+ beam energy=   4.4708950707811477        <P_tot> [MeV/c]=    4.9556177879558412     
+ unorm. emit_x,y=  0.17228697935645157      ,   0.16456299858899626     
+ z_emit[keV-mm]=   18.493586534321164        z_emit[deg-keV]=   63.425097675831623     
+ Courant-Snyder parameters:
+ beta_x,y [mm/mrad]=    2.2678110109908488E-007 ,     4.6248258411226109E-007
+ beta_z   =   0.79566250584716536       [deg/KeV]
+ alfa_x,y =   -2.6440949411247923      ,   -0.47422439812549455     
+ alfa_z =   -2.6951210365054488     
+ gamma_x=   1.4356764271048510E-006  gamma_y=   1.4356764271048510E-006
